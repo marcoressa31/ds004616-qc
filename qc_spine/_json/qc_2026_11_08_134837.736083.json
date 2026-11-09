@@ -1,0 +1,16 @@
+{
+ "path": "D:\\ds004616",
+ "cmdline": "sct_deepseg spine -i sub-17/ses-02/anat/sub-17_ses-02_T2w.nii.gz -qc D:/ds004616/qc_spine",
+ "command": "sct_deepseg",
+ "sctVersion": "git-master-bddc7a050319718b5e4e0856afec0bc9ea96418f",
+ "dataset": "sub-17",
+ "subject": "ses-02",
+ "contrast": "anat",
+ "inputFile": "sub-17_ses-02_T2w.nii.gz",
+ "plane": "Sagittal",
+ "backgroundImage": "sub-17\\ses-02\\anat\\sct_deepseg\\2026_11_08_134837.736083\\background_img.png",
+ "overlayImage": "sub-17\\ses-02\\anat\\sct_deepseg\\2026_11_08_134837.736083\\overlay_img.png",
+ "date": "2026-11-08 13:48:37.736083",
+ "rank": "",
+ "qc": ""
+}

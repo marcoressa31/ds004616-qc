@@ -1,0 +1,16 @@
+{
+ "path": "D:\\ds004616",
+ "cmdline": "sct_deepseg_sc (\"sct_qc -i sub-22/ses-01/anat/sub-22_ses-01_T2w.nii.gz -s D:/ds004616/contrast_agnostic_segmentations/sub-22_ses-01_T2w_seg.nii.gz -p sct_deepseg_sc -qc D:/ds004616/qc_contrast_agnostic\")",
+ "command": "sct_deepseg_sc",
+ "sctVersion": "git-master-bddc7a050319718b5e4e0856afec0bc9ea96418f",
+ "dataset": "sub-22",
+ "subject": "ses-01",
+ "contrast": "anat",
+ "inputFile": "sub-22_ses-01_T2w.nii.gz",
+ "plane": "Axial",
+ "backgroundImage": "sub-22\\ses-01\\anat\\sct_deepseg_sc\\2026_11_08_135907.086963\\background_img.png",
+ "overlayImage": "sub-22\\ses-01\\anat\\sct_deepseg_sc\\2026_11_08_135907.086963\\overlay_img.png",
+ "date": "2026-11-08 13:59:07.086963",
+ "rank": "",
+ "qc": ""
+}

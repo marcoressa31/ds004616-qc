@@ -1,0 +1,12 @@
+{
+    "GeneratedBy": [
+        {
+            "Name": "spinalcordtoolbox: sct_deepseg spinalcord -i sub-03_ses-02_T2w.nii.gz -o sub-03_ses-02_T2w_seg.nii.gz",
+            "Version": "git-master-bddc7a050319718b5e4e0856afec0bc9ea96418f",
+            "CodeURL": "https://github.com/spinalcordtoolbox/spinalcordtoolbox/blob/bddc7a050319718b5e4e0856afec0bc9ea96418f/spinalcordtoolbox/scripts/sct_deepseg.py",
+            "ModelURL": [
+                "https://github.com/sct-pipeline/contrast-agnostic-softseg-spinalcord/releases/download/v4.0/model_contrast_agnostic_20260628.zip"
+            ]
+        }
+    ]
+}
